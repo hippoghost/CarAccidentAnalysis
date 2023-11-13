@@ -3,7 +3,7 @@
 ## Project Overview
 
 In the vibrant city of Berlin, Aristophanes, a Greek data enthusiast, embarked on an unconventional journey to unravel the mysteries hidden within the vast datasets of the Hellenic Statistical Authority. This project encapsulates Aristophanes' data-driven odyssey, weaving a fictional narrative around real data to explore innovative and humorous insights. Check the official site of [
-Hellenic Statistical Authority]([https://nightstalkerband.com/](https://www.statistics.gr/en/statistics/-/publication/SDT04/-) and download the timeseries xlsx.file [02. Road Traffic Accidents, basic characteristics (2007 - 2021)]([https://en.wikipedia.org/wiki/Night_Stalker](https://www.statistics.gr/en/statistics/-/publication/SDT04/-).
+Hellenic Statistical Authority]([https://www.statistics.gr/en/statistics/-/publication/SDT04/-]) and download the timeseries xlsx.file [02. Road Traffic Accidents, basic characteristics (2007 - 2021)]([https://www.statistics.gr/en/statistics/-/publication/SDT04/-]).
 
 ## Problem Statement
 Aristophanes faced a unique challenge—overcoming his apprehension of car accidents to traverse the captivating roads of Greece. This project aimed to delve into past car accidents, using statistical analysis and a touch of creativity to unearth conditions that could turn his dream of a safe road trip into reality.
