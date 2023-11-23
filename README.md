@@ -37,7 +37,7 @@ Beyond Aristophanes' fictional journey, this project offers a whimsical yet insi
 
 ## MEDIUM ARTICLE
 
-In the [medium article](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b](https://medium.com/@dimmakriss/data-analytics-and-storytelling-9370839c4ae5)
+In the [medium article](https://medium.com/@dimmakriss/data-analytics-and-storytelling-9370839c4ae5)
 , you'll get an in-depth look at the methodologies I used, the objectives I set out to achieve, and the exciting discoveries I made along the way. 
 
 Feel free to reach out if you have any questions or thoughts to share! 
